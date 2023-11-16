@@ -1,0 +1,15 @@
+name: HardcorePlugin
+version: 1.0
+main: com.example.hardcoreplugin.HardcorePlugin
+description: A Spigot plugin for managing shared lives in hardcore and survival servers.
+author: ShortWlf
+commands:
+  setmaxlives:
+    description: Set the maximum shared lives for the server.
+    usage: /setmaxlives <number>
+  lives:
+    description: View the number of shared lives for the server.
+  resetworld:
+    description: Reset the world (Ops only).
+  resetspawn:
+    description: Reset the world (Ops only).
