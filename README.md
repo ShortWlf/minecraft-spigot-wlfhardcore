@@ -1,4 +1,4 @@
-# Minecraft-Spigot-WLFHardcore for spigot 1.20
+# Minecraft-Spigot-WLFHardcore - spigot 1.20
 
 A hardcore plugin for Minecraft.
 
